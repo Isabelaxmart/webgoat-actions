@@ -24,7 +24,7 @@ jobs:
           app_name: "actionsteste"
           scan_directory: "." # Analisando todo o código-fonte por padrão
           # scan_directory: 'dist' # Descomente e ajuste se quiser analisar apenas o código buildado
-          team_id: "[1]"
+          team_id: "[46]"
           languages: '["JavaScript"]'
           description: "Aplicação criada através do GitHub Actions - XGuardian"
           policy_sast: "0"
